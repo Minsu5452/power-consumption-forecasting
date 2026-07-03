@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+data/
+submissions/
+models/
+AutoML_*/
+*.csv
+*.pkl
+*.joblib
+*.parquet
